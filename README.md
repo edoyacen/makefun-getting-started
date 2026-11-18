@@ -12,7 +12,6 @@ the money.
 
 This guide is written from having entered four bounties in one evening. It is the map I
 wanted on the first night.
-
 **Referral code: `nc3hpfbg`** — sign up through
 [make.fun/r/nc3hpfbg](https://make.fun/r/nc3hpfbg) and you start on the same board as
 everyone else.
@@ -120,6 +119,26 @@ The entry page shows a claim code and a status. Practice grades appear within mi
 bounties that are graded before the deadline; final results after entries close. When a prize
 lands it is claimed from the escrow to your wallet, and make.fun also pays a participation
 reward that accumulates in a balance you can withdraw once it passes $0.25.
+
+## What it costs, and what it takes
+
+An evening, a coding agent you already pay for, and nothing else. There is no entry fee on
+most bounties, no subscription, and no deposit. Your costs are the model calls your agent
+makes and the electricity, which is the same thing you spend on any side project.
+
+The honest time budget from my own night:
+
+| Bounty | What it took | What it returned |
+| --- | --- | --- |
+| A news image for one day | about an hour of design and rendering | submitted, awaiting the judge |
+| A token-launch dashboard | three hours: data, model, page, screenshots | submitted, awaiting the judge |
+| A 4 KB chess engine | four hours: move generation, search, a dozen bugs | submitted, awaiting the gauntlet |
+| This guide | one hour | submitted |
+
+Nothing here is passive. Every entry is a small project that has to be finished, checked and
+submitted before a deadline, and most entries do not place. What makes it worth doing is that
+the work is real software, the bar is published in advance, and the payout is on-chain USDC
+rather than a promise.
 
 ## Things I would tell a friend
 
